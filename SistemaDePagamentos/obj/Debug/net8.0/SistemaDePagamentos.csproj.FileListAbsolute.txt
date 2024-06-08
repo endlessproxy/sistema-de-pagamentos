@@ -1,0 +1,14 @@
+C:\Users\Lunacy\Documents\Projetos\SistemaDePagamentos\obj\Debug\net8.0\SistemaDePagamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lunacy\Documents\Projetos\SistemaDePagamentos\obj\Debug\net8.0\SistemaDePagamentos.AssemblyInfoInputs.cache
+C:\Users\Lunacy\Documents\Projetos\SistemaDePagamentos\obj\Debug\net8.0\SistemaDePagamentos.AssemblyInfo.cs
+C:\Users\Lunacy\Documents\Projetos\SistemaDePagamentos\obj\Debug\net8.0\SistemaDePagamentos.csproj.CoreCompileInputs.cache
+C:\Users\Lunacy\Documents\Projetos\SistemaDePagamentos\bin\Debug\net8.0\SistemaDePagamentos.exe
+C:\Users\Lunacy\Documents\Projetos\SistemaDePagamentos\bin\Debug\net8.0\SistemaDePagamentos.deps.json
+C:\Users\Lunacy\Documents\Projetos\SistemaDePagamentos\bin\Debug\net8.0\SistemaDePagamentos.runtimeconfig.json
+C:\Users\Lunacy\Documents\Projetos\SistemaDePagamentos\bin\Debug\net8.0\SistemaDePagamentos.dll
+C:\Users\Lunacy\Documents\Projetos\SistemaDePagamentos\bin\Debug\net8.0\SistemaDePagamentos.pdb
+C:\Users\Lunacy\Documents\Projetos\SistemaDePagamentos\obj\Debug\net8.0\SistemaDePagamentos.dll
+C:\Users\Lunacy\Documents\Projetos\SistemaDePagamentos\obj\Debug\net8.0\refint\SistemaDePagamentos.dll
+C:\Users\Lunacy\Documents\Projetos\SistemaDePagamentos\obj\Debug\net8.0\SistemaDePagamentos.pdb
+C:\Users\Lunacy\Documents\Projetos\SistemaDePagamentos\obj\Debug\net8.0\SistemaDePagamentos.genruntimeconfig.cache
+C:\Users\Lunacy\Documents\Projetos\SistemaDePagamentos\obj\Debug\net8.0\ref\SistemaDePagamentos.dll
